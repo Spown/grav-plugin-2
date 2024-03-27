@@ -1,0 +1,1 @@
+<?php echo 'grav-plugin-2@0.0.1';

@@ -4,4 +4,5 @@ jobs:
     uses: "rotenbaron/grav-main-slot/.github/workflows/gitpuller_tmpl.yml@main"
     with: 
       GITPULLER_HOST: ${{ vars.GITPULLER_HOST }}
+      REPO_BRANCH: ${{ vars.REPO_BRANCH }}
     secrets: inherit

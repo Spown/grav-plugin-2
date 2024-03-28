@@ -1,1 +1,1 @@
-<?php echo 'grav-plugin-2@0.0.3';
+<?php echo 'grav-plugin-2@0.0.4';

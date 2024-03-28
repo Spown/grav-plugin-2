@@ -1,4 +1,4 @@
-on: [push]
+on: push
 jobs:
   deployment:
     uses: "rotenbaron/grav-main-slot/.github/workflows/gitpuller_tmpl.yml@main"
